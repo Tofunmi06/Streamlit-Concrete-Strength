@@ -1,3 +1,7 @@
+# Disclaimer 
+Actual strength depends heavily on curing conditions, material quality, and mix proportions.
+Your prediction is an estimate 
+always verify with lab tests if possible.
 # Streamlit-Concrete-Strength
 Streamlit App for predicting Concrete Stregth
 # Features
