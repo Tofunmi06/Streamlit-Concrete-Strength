@@ -1,0 +1,5 @@
+# Ignore Jupyter Notebook files and checkpoints
+*.ipynb
+.ipynb_checkpoints/
+*xls
+*.xlsx
